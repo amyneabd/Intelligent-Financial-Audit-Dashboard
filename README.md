@@ -19,9 +19,9 @@ Python Isolation Forest model detecting anomalies
 Integrated anomaly scoring & flags inside Power BI
 
 🔹 Repo Structure
-├── data/  
+
+├── Dataset/  
 ├── powerbi/  
-├── python/
 ├── docs/
 └── README.md
 
